@@ -1,6 +1,5 @@
 #!/usr/bin/python3.4
 
-
 from xmlrpc.server import SimpleXMLRPCServer
 from xmlrpc.server import SimpleXMLRPCRequestHandler
 import os
